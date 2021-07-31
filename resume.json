@@ -1,0 +1,48 @@
+{
+	"basics": {
+		"name": "Aditya Raj Singh",
+		"label": "Student",
+		"picture": "https://ibb.co/vkYsHNY",
+		"email": "2020KUCP1095@iiitkota.ac.in",
+		"phone": "887455487",
+		"summary": "I'm a student of Indian Institute of Information Technology, Kota. Pursuing my B.tech in Computer Science and Engineering.",
+		"location": {
+			"address": "CK 63/46 Chhoti Piyari",
+			"PinCode": "221001",
+			"city": "Varanasi",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://www.github.com/Aditya-Raj2002/"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.https://www.linkedin.com/in/aditya-raj-singh-780a2520a/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2020-10-01",
+		"endDate": "2024",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess"]
+	}],
+	"references": []
+}
